@@ -1,8 +1,14 @@
-# API-Beginners-Projects
+<div align="center">
+<h1> API-Beginners-Projects </h1>
+</div>
 
-Welcome to the API Beginner Projects repository! This repository is designed for beginners to showcase their API-related mini projects. We encourage you to contribute by adding your own projects and growing this repository together.
+<div align="center">
+Welcome to the API Beginner Projects repository! This repository is designed for beginners to showcase their API-related mini projects. We encourage you to contribute by adding your own projects and growing this repository together. </ br>
+</div> </br>
 
-![API Image](https://media.istockphoto.com/vectors/color-icon-vector-id1192940308?k=20&m=1192940308&s=612x612&w=0&h=PQAG0DNcXI7pkjMlLuo6opC0zU2irOmzx75gY6bBOJU=)
+<div align="center">
+  <img src="https://media.istockphoto.com/vectors/color-icon-vector-id1192940308?k=20&m=1192940308&s=612x612&w=0&h=PQAG0DNcXI7pkjMlLuo6opC0zU2irOmzx75gY6bBOJU=" width="200"/>
+</div>
 
 
 ## How to Contribute
