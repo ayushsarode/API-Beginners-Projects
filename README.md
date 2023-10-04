@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to the API-Beginner-Projects Repository!
+# ⚙ Welcome to the API-Beginner-Projects Repository! ✨
 
 
  ![](https://api.visitorbadge.io/api/VisitorHit?user=ayushsarode&repo=API-Beginners-Projects&countColor=#7370fd)
