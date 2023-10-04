@@ -22,12 +22,11 @@ Let's embark on this journey in the world of APIs together~
 ## 📃 Table of Contents 
 
 1. [Introduction to API](#intro)
-2. [How to Contribute](#how)
+2. [How to Contribute?](#how)
 3. [Contribution Guidelines](#guidelines)
 4. [Community and Feedback](#feedback)
 5. [License](#license)
 6. [Author](#author)
-7. [Feedback](#feedback)
 8. [Contributors](#contributors)
 
  <a name="intro"></a>
@@ -40,7 +39,7 @@ For more understanding about APIs, make sure to check out [Intro-to-API](./Intro
 
 <a name="how"></a>
 
-## 💭 How to Contribute
+## 💭 How to Contribute?
 
 1.  **Fork the Repository**
 
