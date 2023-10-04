@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙ Welcome to the API-Beginner-Projects Repository! ✨
+# ⚙ Welcome to the API-Beginner-Projects Repository!
 
 
  ![](https://api.visitorbadge.io/api/VisitorHit?user=ayushsarode&repo=API-Beginners-Projects&countColor=#7370fd)
@@ -122,5 +122,6 @@ This repository is available under the [MIT License](./LICENSE).
   <img src="https://contrib.rocks/image?repo=ayushsarode/API-Beginners-Projects" />
 </a>
 
-<br><br>
-Happy coding 🚀
+<br>
+Make sure to ⭐ this repository if you found it helpful!
+<br> Happy coding 🚀
