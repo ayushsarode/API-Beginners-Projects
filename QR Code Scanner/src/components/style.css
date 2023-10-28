@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+h1 {
+  font-size: 4rem;
+  background-color: aliceblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  color: white;
+  margin-top: 2rem;
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgb(17, 90, 208);
+  border-radius: 30px;
+  padding: 10px 20px;
+  box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.2);
+}
+button:hover {
+  background-color: rgb(7, 72, 146);
+  
+}
+
+h2 {
+  color: white;
+  font-size: 2rem;
+  justify-content: center;
+  background-color: greenyellow;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1rem;
+}
+
+a {
+  color: green;
+}
